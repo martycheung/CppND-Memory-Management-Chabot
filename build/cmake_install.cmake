@@ -1,4 +1,4 @@
-# Install script for directory: /Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot
+# Install script for directory: /Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
