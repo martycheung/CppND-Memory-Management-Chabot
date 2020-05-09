@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/chatbot.cpp
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatbot.cpp
 iostream
 -
 random
@@ -16,45 +16,107 @@ algorithm
 ctime
 -
 chatlogic.h
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/chatlogic.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatlogic.h
 graphnode.h
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/graphnode.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/graphnode.h
 graphedge.h
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/graphedge.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/graphedge.h
 chatbot.h
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/chatbot.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatbot.h
 
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/chatbot.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatbot.h
 wx/bitmap.h
 -
 string
 -
-
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/chatgui.h
-wx/wx.h
+memory
 -
 
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/chatlogic.h
-vector
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatgui.cpp
+wx/filename.h
 -
-string
+wx/colour.h
 -
-chatgui.h
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/chatgui.h
-
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/graphedge.h
-vector
--
-string
--
-
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/graphnode.h
-vector
+wx/image.h
 -
 string
 -
 chatbot.h
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/chatbot.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatbot.h
+chatlogic.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatlogic.h
+chatgui.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatgui.h
+
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatgui.h
+wx/wx.h
+-
+memory
+-
+
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatlogic.cpp
+fstream
+-
+sstream
+-
+iostream
+-
+vector
+-
+iterator
+-
+tuple
+-
+algorithm
+-
+graphedge.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/graphedge.h
+graphnode.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/graphnode.h
+chatbot.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatbot.h
+chatlogic.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatlogic.h
+
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatlogic.h
+vector
+-
+string
+-
+memory
+-
+chatgui.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatgui.h
+
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/graphedge.cpp
+graphnode.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/graphnode.h
+graphedge.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/graphedge.h
+
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/graphedge.h
+vector
+-
+string
+-
+memory
+-
+
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/graphnode.cpp
+graphedge.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/graphedge.h
+graphnode.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/graphnode.h
+
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/graphnode.h
+vector
+-
+string
+-
+memory
+-
+chatbot.h
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatbot.h
 
 /usr/local/include/wx-3.0/wx/accel.h
 wx/defs.h

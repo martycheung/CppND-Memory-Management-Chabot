@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/chatbot.cpp" "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/chatbot.cpp.o"
-  "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/chatgui.cpp" "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/chatgui.cpp.o"
-  "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/chatlogic.cpp" "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/chatlogic.cpp.o"
-  "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/graphedge.cpp" "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/graphedge.cpp.o"
-  "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/src/graphnode.cpp" "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/graphnode.cpp.o"
+  "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatbot.cpp" "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/chatbot.cpp.o"
+  "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatgui.cpp" "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/chatgui.cpp.o"
+  "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/chatlogic.cpp" "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/chatlogic.cpp.o"
+  "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/graphedge.cpp" "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/graphedge.cpp.o"
+  "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/src/graphnode.cpp" "/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir/src/graphnode.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
