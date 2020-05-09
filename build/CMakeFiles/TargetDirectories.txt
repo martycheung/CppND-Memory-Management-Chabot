@@ -1,3 +1,0 @@
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/build/CMakeFiles/rebuild_cache.dir
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/build/CMakeFiles/edit_cache.dir
-/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/CppND-Memory-Management-Chatbot/build/CMakeFiles/membot.dir
