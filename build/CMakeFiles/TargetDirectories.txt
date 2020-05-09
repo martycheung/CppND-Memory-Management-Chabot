@@ -1,0 +1,3 @@
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/build/CMakeFiles/rebuild_cache.dir
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/build/CMakeFiles/edit_cache.dir
+/Users/martincheung/Desktop/Learning Resources/C++ Nanodegree/Udacity-Cpp-Nanodegree/Project3-Memory-Management-Chatbot/build/CMakeFiles/membot.dir
